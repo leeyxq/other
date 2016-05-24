@@ -15,3 +15,5 @@ java 对象内存结构
 3、引用类型 4bytes
 
 4、8的倍数不够，补充
+
+@see http://www.javamex.com/tutorials/memory/object_memory_usage.shtml
