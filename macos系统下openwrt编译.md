@@ -1,4 +1,4 @@
-### macos系统下openwrt编译	
+### macos系统下openwrt编译(HG255d)	
 
 1.安装Xcode
 
