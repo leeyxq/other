@@ -52,3 +52,6 @@
 14.编译
 
 	make V=99 -j2
+	
+	单独编译一个包
+	make package/${name}/compile V=99
